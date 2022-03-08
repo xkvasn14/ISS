@@ -1,0 +1,5 @@
+matplotlib.pyplot as plt
+numpy as np
+scipy
+soundfile
+scipy import signal
